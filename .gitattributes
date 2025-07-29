@@ -1,0 +1,2 @@
+eth-trading-bot-interface-win32-ia32.zip filter=lfs diff=lfs merge=lfs -text
+eth-trading-bot-interface-win32-x64.zip filter=lfs diff=lfs merge=lfs -text
