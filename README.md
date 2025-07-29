@@ -10,7 +10,6 @@ This is a fully local program for Windows 64-bit and 32-bit PCs with internet ac
 
 The application files are available in this repository:
 
-📥 **Windows 64-bit**: [eth-trading-bot-interface-win32-x64.zip](https://github.com/seratharfazdPB/Ethereum-Trading-Bot/raw/main/eth-trading-bot-interface-win32-x64.zip)
 
 
 ## Features
