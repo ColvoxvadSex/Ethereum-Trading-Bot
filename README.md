@@ -26,3 +26,19 @@ This is a fully local program for Windows 64-bit and 32-bit PCs with internet ac
 4. **Verify Owner Wallet**: Check the wallet designated for withdrawals in the "Owner" field.
 5. **Run the Bot**: Click "Run" to start automated trading.
 6. **Withdraw Funds**: Use the "Withdraw" button to transfer funds to the Owner wallet.
+
+
+## Requirements
+
+- OS: Windows 64-bit or 32-bit.
+- Internet access for interaction with the Ethereum network.
+
+## Important Warnings
+
+- Cryptocurrency trading carries risks, including potential loss of funds.
+- Ensure you understand how smart contracts work before deploying them.
+- This program is not financial advice.
+
+## License
+
+MIT License. See the LICENSE file for details.
