@@ -14,10 +14,3 @@ Download the program using the links below:
 
 📥 **Windows 32-bit**: eth-trading-bot-interface-win32-ia32.zip
 
-## Installation Instructions
-
-1. Download the ZIP file for your system (64-bit or 32-bit).
-2. Extract the archive to a convenient folder.
-3. Run the `eth-trading-bot-interface.exe` file to launch the program.
-
-
