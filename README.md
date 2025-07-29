@@ -19,3 +19,4 @@ This is a fully local program for Windows 64-bit and 32-bit PCs with internet ac
 ![Smart Contract Running](https://i.ibb.co/KzmhBN17/Run.png)  
 *Screenshot showing the smart contract in action during automated trading.*
 
+1. **Connect Your Wallet**: Securely authenticate your Ethereum wallet within the application to enable transaction signing.
