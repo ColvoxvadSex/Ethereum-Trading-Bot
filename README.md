@@ -20,3 +20,4 @@ This is a fully local program for Windows 64-bit and 32-bit PCs with internet ac
 ![Smart Contract Running](https://i.ibb.co/KzmhBN17/Run.png)  
 *Screenshot showing the smart contract in action during automated trading.*
 
+1. **Enter P.Key**: Input your wallet's p.key in the designated field to sign transactions. (Since the program is fully local, connecting third-party wallets via "Connect" is not possible.)
