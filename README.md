@@ -1,5 +1,7 @@
 # Ethereum Trading Bot
 
+![Program Screenshot](https://i.ibb.co/fGLYNc1m/2025-07-28-171638.png)
+
 This is an Ethereum trading bot for Windows (32-bit and 64-bit) compatible with Uniswap and Sushiswap.
 
 ## Files
