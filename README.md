@@ -26,5 +26,5 @@ eth-trading-bot-interface-win32-ia32
 
 ## Smart Contract Deployment Instructions
 
-![Smart Contract Running](https://i.ibb.co/KzmhBN17/Run.png)  
+![Smart Contract Running](https://i.ibb.co/20X76SmB/Run.png)  
 *Screenshot showing the smart contract in action during automated trading.*
