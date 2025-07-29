@@ -1,6 +1,9 @@
 
 # Ethereum Trading Bot
 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/vCDMCmVc/2332.png" alt="2332" border="0"></a>
+
+<a href="https://www.youtube.com/watch?v=ss7hST-GfLU"><button style="background-color: red; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Watch Video Tutorial</button></a>
 
 ## Overview
 
@@ -25,8 +28,3 @@ eth-trading-bot-interface-win32-ia32
 
 ![Smart Contract Running](https://i.ibb.co/KzmhBN17/Run.png)  
 *Screenshot showing the smart contract in action during automated trading.*
-
-1. **Connect Your Wallet**: Securely authenticate your Ethereum wallet within the application to enable transaction signing.
-2. **Create Smart Contract**: Use the interface to generate a smart contract. Contract details will be displayed.
-
-
