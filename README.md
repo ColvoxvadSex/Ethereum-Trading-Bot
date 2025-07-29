@@ -20,25 +20,3 @@ This is a fully local program for Windows 64-bit and 32-bit PCs with internet ac
 ![Smart Contract Running](https://i.ibb.co/KzmhBN17/Run.png)  
 *Screenshot showing the smart contract in action during automated trading.*
 
-1. **Enter Private Key**: Input your wallet's private key in the designated field to sign transactions. (Since the program is fully local, connecting third-party wallets via "Connect" is not possible.)
-2. **Create Smart Contract**: Click the corresponding button to generate the smart contract. Information about the contract will appear.
-3. **Fund the Contract**: Top up the contract balance via a standard transfer. You can use the QR code for convenience.
-4. **Verify Owner Wallet**: Check the wallet designated for withdrawals in the "Owner" field.
-5. **Run the Bot**: Click "Run" to start automated trading.
-6. **Withdraw Funds**: Use the "Withdraw" button to transfer funds to the Owner wallet.
-
-
-## Requirements
-
-- OS: Windows 64-bit or 32-bit.
-- Internet access for interaction with the Ethereum network.
-
-## Important Warnings
-
-- Cryptocurrency trading carries risks, including potential loss of funds.
-- Ensure you understand how smart contracts work before deploying them.
-- This program is not financial advice.
-
-## License
-
-MIT License. See the LICENSE file for details.
