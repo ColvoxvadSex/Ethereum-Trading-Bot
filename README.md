@@ -10,7 +10,9 @@ This is a fully local program for Windows 64-bit and 32-bit PCs with internet ac
 
 The application files are available in this repository:
 
+eth-trading-bot-interface-win32-x64
 
+eth-trading-bot-interface-win32-ia32
 
 ## Features
 
