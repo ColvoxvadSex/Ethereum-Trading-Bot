@@ -20,3 +20,8 @@ This is a fully local program for Windows 64-bit and 32-bit PCs with internet ac
 *Screenshot showing the smart contract in action during automated trading.*
 
 1. **Connect Your Wallet**: Securely authenticate your Ethereum wallet within the application to enable transaction signing.
+2. **Create Smart Contract**: Use the interface to generate a smart contract. Contract details will be displayed.
+3. **Fund the Contract**: Add funds to the contract via a standard Ethereum transfer. A QR code is available for convenience.
+4. **Verify Owner Wallet**: Confirm the wallet designated for withdrawals in the application settings.
+5. **Start Trading**: Select the "Run" option to begin automated trading.
+6. **Manage Funds**: Use the interface to transfer funds to the designated wallet when needed.
